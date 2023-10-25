@@ -1,7 +1,8 @@
 # The coolest Data-Mining Group
 Group work for data mining 2023
-## Steps
-__1.	Data Exploration and Preprocessing:__
+
+## To do list
+__1. Data Exploration and Preprocessing:__
   - Exploring and familiarizing with dataset.
   - Understand the meaning and structure of each attribute (column) in the dataset.
   - Missing data, outliers, and inconsistencies. Handle missing data by imputing, removing, or addressing it appropriately.
@@ -37,32 +38,31 @@ __8.	Documentation and Reporting:__
 Starting with data exploration and preprocessing is crucial to ensure the data is in the right format and to identify any data quality issues. Once the data is prepared, you can proceed with segmentation and interpretation to provide actionable insights for XYZ Sports Company.
 
 
-
-Customer segmentation:
-__1.	Demographic Segmentation:__
+## __Customer segmentation:__
+__-	Demographic Segmentation:__
   - Age groups: Different age groups may have varying fitness needs and preferences. Understanding the age distribution of customers can help tailor services and marketing to specific age demographics.
   - Gender: Gender-based segmentation can be relevant as fitness preferences and motivations may differ between males and females.
   - Income levels: Income can influence the willingness and ability to spend on fitness services. Segmenting by income can guide pricing and marketing strategies.
     
-__2.	Behavioral Segmentation:__
+__-	Behavioral Segmentation:__
   - Activity preferences: Identifying which types of activities are popular among customers can guide decisions on which sports and fitness programs to prioritize or expand.
   - Frequency of visits: Understanding visit frequency can help create retention strategies for infrequent visitors or loyalty programs for regular attendees.
   - Dropout status: Segmenting by dropout status is crucial for identifying at-risk customers and developing strategies to retain them.
   - Number of renewals: Customers with different renewal histories may require different approaches to keep them engaged.
     
-__3.	Psychographic Segmentation:__
+__-	Psychographic Segmentation:__
   - Lifestyle and interests: This type of segmentation can help in tailoring marketing messages and services to match the motivations and interests of different customer groups.
     
-__4.	Geographic Segmentation:__
+__-	Geographic Segmentation:__
   - Location: If XYZ Sports Company has multiple facilities or locations, geographic segmentation can help optimize marketing and service offerings for each location or understand regional preferences.
     
-__5.	Customer Value Segmentation:__
+__-	Customer Value Segmentation:__
   - Lifetime value: Identifying high-value customers allows the company to offer premium services and rewards to maintain their loyalty.
     
-__6.	Engagement Level Segmentation:__
+__-	Engagement Level Segmentation:__
   - Classes attended: Segmenting by classes attended can help tailor class schedules and offerings to match customer preferences.
   - Allowed visits: Understanding the number of visits allowed by different SLAs can guide marketing efforts, pricing strategies, and resource allocation.
     
-__7.	Referral Status:__
+__-	Referral Status:__
   - HasReferences: Recognizing customers who have referred others can lead to referral-based incentive programs to encourage more referrals.
 
