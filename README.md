@@ -1,6 +1,7 @@
 # The coolest Data-Mining Group
 Group work for data mining 2023
 
+
 ## To do list
 __1. Data Exploration and Preprocessing:__
   - Exploring and familiarizing with dataset.
